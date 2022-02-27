@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arpit306
+- 👋 Hi, I’m Arpit.
 - 👀 I’m interested in Microelectronics VLSI design & Computer Architetcue.
 - 🌱 I’m currently learning Electronics & Communication.
 - 💞️ I’m looking to collaborate on Analog IC design, RTL design, VLSI physical layout design.
