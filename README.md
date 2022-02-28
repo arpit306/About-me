@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arpit.
 - 👀 I’m interested in Microelectronics, VLSI design & Computer Architecture.
 - 🌱 I’m currently learning Electronics & Communication Engineering.
-- 💞️ I’m looking to collaborate on Analog IC design, RTL design, VLSI physical layout design.
+- 💞️ I’m looking to collaborate on Analog IC design, Digital design, VLSI physical layout design.
 - 📫 How to reach me ... email me at 1900300310018@ipec.org.in
 
 <!---
